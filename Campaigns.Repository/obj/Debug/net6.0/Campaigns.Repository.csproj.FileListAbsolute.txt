@@ -1,0 +1,15 @@
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\bin\Debug\net6.0\Campaigns.Repository.deps.json
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\bin\Debug\net6.0\Campaigns.Repository.dll
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\bin\Debug\net6.0\Campaigns.Repository.pdb
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\bin\Debug\net6.0\Campaigns.Infrastructure.dll
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\bin\Debug\net6.0\Campaigns.Infrastructure.pdb
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\obj\Debug\net6.0\Campaigns.Repository.csproj.AssemblyReference.cache
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\obj\Debug\net6.0\Campaigns.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\obj\Debug\net6.0\Campaigns.Repository.AssemblyInfoInputs.cache
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\obj\Debug\net6.0\Campaigns.Repository.AssemblyInfo.cs
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\obj\Debug\net6.0\Campaigns.Repository.csproj.CoreCompileInputs.cache
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\obj\Debug\net6.0\Campaigns.Repository.csproj.CopyComplete
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\obj\Debug\net6.0\Campaigns.Repository.dll
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\obj\Debug\net6.0\refint\Campaigns.Repository.dll
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\obj\Debug\net6.0\Campaigns.Repository.pdb
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Repository\obj\Debug\net6.0\ref\Campaigns.Repository.dll

@@ -1,0 +1,17 @@
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\bin\Debug\net6.0\Campaigns.Services.deps.json
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\bin\Debug\net6.0\Campaigns.Services.dll
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\bin\Debug\net6.0\Campaigns.Services.pdb
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\bin\Debug\net6.0\Campaigns.Infrastructure.dll
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\bin\Debug\net6.0\Campaigns.Repository.dll
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\bin\Debug\net6.0\Campaigns.Repository.pdb
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\bin\Debug\net6.0\Campaigns.Infrastructure.pdb
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\obj\Debug\net6.0\Campaigns.Services.csproj.AssemblyReference.cache
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\obj\Debug\net6.0\Campaigns.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\obj\Debug\net6.0\Campaigns.Services.AssemblyInfoInputs.cache
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\obj\Debug\net6.0\Campaigns.Services.AssemblyInfo.cs
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\obj\Debug\net6.0\Campaigns.Services.csproj.CoreCompileInputs.cache
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\obj\Debug\net6.0\Campaigns.Services.csproj.CopyComplete
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\obj\Debug\net6.0\Campaigns.Services.dll
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\obj\Debug\net6.0\refint\Campaigns.Services.dll
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\obj\Debug\net6.0\Campaigns.Services.pdb
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Services\obj\Debug\net6.0\ref\Campaigns.Services.dll

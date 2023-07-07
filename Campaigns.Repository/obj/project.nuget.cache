@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KsGMFONqIkKOMwtCuRm1K3s3yWUeE5E4RHcK82kNSUpABQ2qglNNvDVnaaaLrXTvGp+72ng3bj+WmkIF9OSaTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skavlashvili\\Desktop\\Campaigns\\Campaigns.Repository\\Campaigns.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

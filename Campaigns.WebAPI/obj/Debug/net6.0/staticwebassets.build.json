@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LEXgrwXEXkLbwhPn/RxJOisZ1Xx4rIgkjIQ99gKgVew=",
+  "Source": "Campaigns.WebAPI",
+  "BasePath": "_content/Campaigns.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

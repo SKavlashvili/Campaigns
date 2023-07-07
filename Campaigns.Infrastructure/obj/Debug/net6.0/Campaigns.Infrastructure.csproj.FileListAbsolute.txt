@@ -1,0 +1,12 @@
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Infrastructure\bin\Debug\net6.0\Campaigns.Infrastructure.deps.json
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Infrastructure\bin\Debug\net6.0\Campaigns.Infrastructure.dll
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Infrastructure\bin\Debug\net6.0\Campaigns.Infrastructure.pdb
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Infrastructure\obj\Debug\net6.0\Campaigns.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Infrastructure\obj\Debug\net6.0\Campaigns.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Infrastructure\obj\Debug\net6.0\Campaigns.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Infrastructure\obj\Debug\net6.0\Campaigns.Infrastructure.AssemblyInfo.cs
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Infrastructure\obj\Debug\net6.0\Campaigns.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Infrastructure\obj\Debug\net6.0\Campaigns.Infrastructure.dll
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Infrastructure\obj\Debug\net6.0\refint\Campaigns.Infrastructure.dll
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Infrastructure\obj\Debug\net6.0\Campaigns.Infrastructure.pdb
+C:\Users\skavlashvili\Desktop\Campaigns\Campaigns.Infrastructure\obj\Debug\net6.0\ref\Campaigns.Infrastructure.dll

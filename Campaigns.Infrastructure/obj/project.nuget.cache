@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqKNBbuOnsMzYyMtHVSNzBTPWPPHeKO0X5UGEuiexQ2LEUXCe44m+pe8/I2y6ALnKSzLWphsanv7LOCtG6lzAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skavlashvili\\Desktop\\Campaigns\\Campaigns.Infrastructure\\Campaigns.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\skavlashvili\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
